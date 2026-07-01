@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /Users/JoaoReis/Projetos/transcreveai
+source .venv/bin/activate
+python main.py
